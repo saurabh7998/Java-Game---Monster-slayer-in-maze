@@ -1,0 +1,106 @@
+/Users/saurabhg/Library/Java/JavaVirtualMachines/openjdk-16.0.2/Contents/Home/bin/java -javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=64645:/Applications/IntelliJ IDEA.app/Contents/bin -Dfile.encoding=UTF-8 -classpath /Users/saurabhg/Documents/IntelliJ-workspace/CS5010/Project_04/out/production/Project_04 dungeon.Driver 3 3 4 WRAPPING 50 3
+Recommended Path : [2, 1, 3, 9, 6, 4, 5]
+
+Current Location: 2
+Location has treasures: [SAPPHIRE, SAPPHIRE, SAPPHIRE]
+Location has 1 arrows
+Do you want to pickup treasure? Press Y to pickup. Press any other key to skip.
+Y
+Player collected treasure(s): [SAPPHIRE, SAPPHIRE, SAPPHIRE]
+Do you want to pick up arrows? Press Y to pickup. Press any other key to skip
+Y
+Player collected 1 arrows
+Low Smell Detected
+Player has: 4 arrows
+Do you want to shoot an Otyugh? Press Y to shoot, else press any other key to skip
+Y
+Enter the direction to shoot at: N/S/E/W:
+E
+Enter the distance at which you want to shoot:
+2
+Ah! You could not shoot the Otyugh.
+
+Player can now move to :West ||
+
+Enter E/W/N/S: or enter Q to quit
+W
+Current Location: 1
+Location has treasures: [SAPPHIRE, SAPPHIRE, SAPPHIRE]
+Location has 1 arrows
+Do you want to pickup treasure? Press Y to pickup. Press any other key to skip.
+Y
+Player collected treasure(s): [SAPPHIRE, SAPPHIRE, SAPPHIRE]
+Do you want to pick up arrows? Press Y to pickup. Press any other key to skip
+N
+You chose to skip picking up the arrows.
+Strong smell detected
+Player has: 4 arrows
+Do you want to shoot an Otyugh? Press Y to shoot, else press any other key to skip
+Y
+Enter the direction to shoot at: N/S/E/W:
+S
+Enter the distance at which you want to shoot:
+1
+An Otyugh at location: 4 was shot but not killed.
+Previous Health was: 100 && Current Health is: 50
+Player can now move to :North || South || East || West ||
+
+Enter E/W/N/S: or enter Q to quit
+N
+Current Location: 7
+Location has 1 arrows
+Do you want to pick up arrows? Press Y to pickup. Press any other key to skip
+Y
+Player collected 1 arrows
+Strong smell detected
+Player has: 4 arrows
+Do you want to shoot an Otyugh? Press Y to shoot, else press any other key to skip
+Y
+Enter the direction to shoot at: N/S/E/W:
+S
+Enter the distance at which you want to shoot:
+2
+An Otyugh at location: 4 was killed.
+Previous Health was: 50 && Current Health is: 0
+Player can now move to :South || East ||
+
+Enter E/W/N/S: or enter Q to quit
+S
+Current Location: 1
+Location has 1 arrows
+Do you want to pick up arrows? Press Y to pickup. Press any other key to skip
+Y
+Player collected 1 arrows
+Strong smell detected
+Player has: 4 arrows
+Do you want to shoot an Otyugh? Press Y to shoot, else press any other key to skip
+N
+You chose to skip shooting
+Player can now move to :North || South || East || West ||
+
+Enter E/W/N/S: or enter Q to quit
+S
+Current Location: 4
+Location has 2 arrows
+Do you want to pick up arrows? Press Y to pickup. Press any other key to skip
+N
+You chose to skip picking up the arrows.
+Strong smell detected
+Player has: 4 arrows
+Do you want to shoot an Otyugh? Press Y to shoot, else press any other key to skip
+Y
+Enter the direction to shoot at: N/S/E/W:
+E
+Enter the distance at which you want to shoot:
+1
+An Otyugh at location: 5 was shot but not killed.
+Previous Health was: 100 && Current Health is: 50
+Player can now move to :North || East || West ||
+
+Enter E/W/N/S: or enter Q to quit
+E
+Chomp chomp chomp, You have been eaten by the Otyugh
+
+Game Over
+
+Process finished with exit code 0
